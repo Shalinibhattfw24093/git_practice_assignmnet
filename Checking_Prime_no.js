@@ -5,9 +5,9 @@ if(num%i==0){
 c++
 }
 }
-if(c=2){
-console.log("It is a Prime No.)
+if(c==2){
+console.log("It is a Prime No.);
 }
 else{
-console.log(It is not a Prime No.)
+console.log(It is not a Prime No.);
 }
